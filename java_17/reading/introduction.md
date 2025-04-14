@@ -448,7 +448,7 @@ Java provides eight primitive types to represent simple numeric, character, and 
 | char | 16 bits | 0   | 65,535 |
 
 - default value `\u0000`
-- Character 'A' ASCII code '\101' Unicode '\u0041' Excase sequences: tab '\t' backspace '\b' new line '\n' carriage return '\r' form feed '\f' single quote '\'' double quote '\"' backslash '\\'
+- Character 'A' ASCII code '\101' Unicode '\u0041' Escape sequences: tab '\t' backspace '\b' new line '\n' carriage return '\r' form feed '\f' single quote '\'' double quote '\"' backslash '\\'
 
 ## Text, Date, Time, and Numeric Objects
 
